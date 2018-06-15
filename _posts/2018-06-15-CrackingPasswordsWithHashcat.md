@@ -10,3 +10,4 @@ Today, we'll be extracting hashes from a Domain Controller using built in tools 
 {: .box-warning}
 **Warning:** This is for educational purposes only. Do not attempt this without explicit permission from the network admin.
 
+:TODO
