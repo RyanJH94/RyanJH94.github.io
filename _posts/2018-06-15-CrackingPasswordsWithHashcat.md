@@ -81,12 +81,12 @@ That's it. You now have usernames and passwords for weak passwords in your domai
 
 If you didn't crack as many as you'd thought, try editing your ditcionary to include things like:
 
-*Days of the week
-*Months of the year
-*Seasons
-*Local town/city names
-*Local sports teams names
-*Your company name
+* Days of the week
+* Months of the year
+* Seasons
+* Local town/city names
+* Local sports teams names
+* Your company name
 
 Happy cracking!
 
