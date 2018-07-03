@@ -3,6 +3,7 @@ layout: post
 title: Cracking Domain Passwords
 subtitle: Using Hashcat on Windows
 tags: [Penetration Testing, Hashcat]
+comments: true
 ---
 
 Today, we'll be extracting hashes from a Domain Controller using built in tools and then cracking them using [Hashcat](https://hashcat.net/hashcat/).
